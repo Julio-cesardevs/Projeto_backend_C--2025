@@ -1,0 +1,14 @@
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\bin\Debug\net9.0\Desafio_fundamentos.exe
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\bin\Debug\net9.0\Desafio_fundamentos.deps.json
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\bin\Debug\net9.0\Desafio_fundamentos.runtimeconfig.json
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\bin\Debug\net9.0\Desafio_fundamentos.dll
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\bin\Debug\net9.0\Desafio_fundamentos.pdb
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\Desafio_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\Desafio_fundamentos.AssemblyInfoInputs.cache
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\Desafio_fundamentos.AssemblyInfo.cs
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\Desafio_fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\Desafio_fundamentos.dll
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\refint\Desafio_fundamentos.dll
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\Desafio_fundamentos.pdb
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\Desafio_fundamentos.genruntimeconfig.cache
+C:\Users\ASUS\Videos\5 - DIO\bootcamp_WEX\Desafio_fundamentos\obj\Debug\net9.0\ref\Desafio_fundamentos.dll
